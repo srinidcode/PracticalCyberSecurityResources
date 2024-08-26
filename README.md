@@ -1,15 +1,5 @@
 # Practical Cyber Security Resources 🌟
 
-This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝 I hope you find it useful.🌸😌
-
-In addition, other platforms where you can connect with me for articles, repositories, and more that I will publish in the new year;
-
-- https://www.linkedin.com/in/brcyrr/
-
-- https://twitter.com/brcyrr
-
-- https://medium.com/@brcyrr
-
 ### Contents
 
 - [Pentest General Resources](https://github.com/brcyrr/PracticalCyberSecurityResources#pentest-general-resources-) 
